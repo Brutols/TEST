@@ -1,0 +1,27 @@
+.ciao {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    border: none;
+    background: transparent;
+    background: linear-gradient(
+      180deg,
+      rgba(0, 0, 0, 1) 50%,
+      rgba(220, 21, 21, 0) 50%
+    );
+  }
+  
+  .ciao1 {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    border: none;
+    background: transparent;
+    background: linear-gradient(
+      0deg,
+      rgba(0, 0, 0, 1) 50%,
+      rgba(220, 21, 21, 0) 50%
+    );
+  }
